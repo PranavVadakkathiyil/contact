@@ -184,6 +184,9 @@ body{
 @media (max-width:991px)
 {
     body{
+       max-width: 100%;
+    overflow-x: hidden;
+    
         background: #03a9f5;
     }
     .contactus{
